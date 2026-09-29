@@ -3,11 +3,15 @@ Monitor multiple Codex account quotas and automatically switch accounts via ccsw
 
 (仅适用于多个Plus账户的用户)
 
-你在使用Codex时是否遇到了这些问题？5h额度用完了任务直接中断了需要手动继续；Tobi宣布马上重置，赶紧熬夜猛猛蹬；额度耗尽导致事先输入的任务被一股脑输入，没有运行任务也就算了，原先的任务还可能受影响；熬夜等重置跑任务...我使用Codex构建了这个自动切换助手，用于自动监测多个账户的额度。当账户A的5h额度用完，它会自动停止任务并切换至账号B(如果额度充足）并继续任务。当多个账户额度都不足时，它会帮你在5h额度重置后自动重新启动任务。你还可以添加任务队列，它会在额度足够的情况下自动输入下一个任务（通过任务与恢复记录界面右键你选中的任务进入）。
+你在使用Codex时是否遇到了这些问题？5h额度用完了任务直接中断了需要手动继续；Tobi宣布马上重置，赶紧熬夜猛猛蹬；额度耗尽导致事先输入的任务被一股脑输入，没有运行任务也就算了，原先的任务还可能受影响；熬夜等重置跑任务...
+
+我使用Codex构建了这个自动切换助手，用于自动监测多个账户的额度。当账户A的5h额度用完，它会自动停止任务并切换至账号B(如果额度充足）并继续任务。当多个账户额度都不足时，它会帮你在5h额度重置后自动重新启动任务。你还可以添加任务队列，它会在额度足够的情况下自动输入下一个任务（通过任务与恢复记录界面右键你选中的任务进入）。
 
 刚需CCswitch
 
-Have you encountered these issues while using Codex? Tasks abruptly stop when your 5-hour quota runs out, requiring manual resumption; Tobi announces an imminent reset, so you stay up late to rush through tasks; when quotas are depleted, previously entered tasks get flushed all at once—worst case, not only do running tasks fail, but previous ones might also be affected; staying awake just to wait for the reset and run tasks again... I've built this automatic switching assistant with Codex to monitor multiple accounts' quotas. When Account A's 5-hour quota is exhausted, it automatically pauses the task and switches to Account B (if there's sufficient quota) to continue. If all accounts lack quota, it will automatically restart the task once the 5-hour quota resets. You can also add a task queue—it will automatically input the next task in line as soon as quota becomes available (accessed by right-clicking on a selected task in the task and recovery log interface).
+Have you encountered these issues while using Codex? Tasks abruptly stop when your 5-hour quota runs out, requiring manual resumption; Tobi announces an imminent reset, so you stay up late to rush through tasks; when quotas are depleted, previously entered tasks get flushed all at once—worst case, not only do running tasks fail, but previous ones might also be affected; staying awake just to wait for the reset and run tasks again... 
+
+I've built this automatic switching assistant with Codex to monitor multiple accounts' quotas. When Account A's 5-hour quota is exhausted, it automatically pauses the task and switches to Account B (if there's sufficient quota) to continue. If all accounts lack quota, it will automatically restart the task once the 5-hour quota resets. You can also add a task queue—it will automatically input the next task in line as soon as quota becomes available (accessed by right-clicking on a selected task in the task and recovery log interface).
 
 CCswitch is necessary
 
