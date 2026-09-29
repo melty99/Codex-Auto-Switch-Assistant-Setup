@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Auto Switch Assistant"
+  short_description: "Monitor quota, switch accounts, and recover tasks"
+  default_prompt: "Open Codex Auto Switch Assistant and inspect quota and task recovery."
