@@ -1,6 +1,7 @@
 <img width="250" height="300" alt="codex-auto-switch-poster-en" src="https://github.com/user-attachments/assets/621a0250-acf7-4c5a-90ee-f17a2c3e3a2b" />
 <img width="250" height="300" alt="codex-auto-switch-poster-v5" src="https://github.com/user-attachments/assets/9df19903-29cb-4558-923a-f79924474dc9" />
 <img width="150" height="150" alt="Fleet_Snowfluff" src="https://github.com/user-attachments/assets/3b703174-da4c-47d9-a48d-739b3d8aae3e" />
+
 你在使用Codex时是否遇到了这些问题？5h额度用完了任务直接中断了需要手动继续；Tobi宣布马上重置，赶紧熬夜猛猛蹬；额度耗尽导致事先输入的任务被一股脑输入，没有运行任务也就算了，原先的任务还可能受影响；熬夜等重置跑任务...我使用Codex构建了这个自动切换助手，用于自动监测多个账户的额度。当账户A的5h额度用完，它会自动停止任务并切换至账号B(如果额度充足）并继续任务。当多个账户额度都不足时，它会帮你在5h额度重置后自动重新启动任务。你还可以添加任务队列，它会在额度足够的情况下自动输入下一个任务（通过任务与恢复记录界面右键你选中的任务进入）。
 
 刚需CCswitch
