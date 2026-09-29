@@ -1,4 +1,4 @@
-# Codex-Auto-Switch-Assistant
+<img width="1122" height="1402" alt="exec-7121009c-5f13-4be3-ab20-d641bb76d029" src="https://github.com/user-attachments/assets/a8976fdb-2698-46ea-82a0-73f007ccc697" /><img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/6d3125fb-8520-49b7-9cf7-e6780ec9f52e" /># Codex-Auto-Switch-Assistant
 Monitor multiple Codex account quotas and automatically switch accounts via ccswitch when a 5-hour quota is exhausted, allowing tasks to continue seamlessly. Suitable for users with multiple Plus accounts.
 
 (仅适用于多个Plus账户的用户)
@@ -14,7 +14,6 @@ Have you encountered these issues while using Codex? Tasks abruptly stop when yo
 I've built this automatic switching assistant with Codex to monitor multiple accounts' quotas. When Account A's 5-hour quota is exhausted, it automatically pauses the task and switches to Account B (if there's sufficient quota) to continue. If all accounts lack quota, it will automatically restart the task once the 5-hour quota resets. You can also add a task queue—it will automatically input the next task in line as soon as quota becomes available (accessed by right-clicking on a selected task in the task and recovery log interface).
 
 CCswitch is necessary
-
 
 以下为Codex生成
 
