@@ -1,4 +1,4 @@
-# Codex-Auto-Switch-Assistant-Setup
+# Codex-Auto-Switch-Assistant
 Monitor multiple Codex account quotas and automatically switch accounts via ccswitch when a 5-hour quota is exhausted, allowing tasks to continue seamlessly. Suitable for users with multiple Plus accounts.
 
 (仅适用于多个Plus账户的用户)
